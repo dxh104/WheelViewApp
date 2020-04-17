@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="WheelView">
+        <attr name="itemHeight" format="dimension" /><!--每个条目高度-->
+        <attr name="itemVisibleCount" format="integer" /><!--显示的条目数量-->
+        <attr name="titleTextSize" format="dimension" /><!--标题文本字体大小-->
+        <attr name="titleTextColor" format="color" /><!--标题文本字体颜色-->
+        <attr name="wheelViewBackgroundColor" format="color" /><!--WheelView背景颜色-->
+        <attr name="wheelViewBackgroundLineColor" format="color" /><!--WheelView线的颜色-->
+        <attr name="wheelViewBackgroundLineBorderWidth" format="dimension" /><!--WheelView线的宽度-->
+        <attr name="minScaleBias" format="float" /><!--可见最小缩放比例-->
+    </declare-styleable>
+
+
+
+</resources>
